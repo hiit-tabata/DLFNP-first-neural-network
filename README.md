@@ -1,2 +1,2 @@
-# DLRNP-first-neural-network
+# DLFNP-first-neural-network
 Deep-Learning-Foundation-Nanodegree
